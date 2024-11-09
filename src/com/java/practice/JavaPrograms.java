@@ -90,6 +90,8 @@ public class JavaPrograms {
         programs.prime(71);
         programs.palindrome(12321);
         programs.print(5);
+
+        System.out.println("Commiting to 11 Nov Branch");
     }
 
 
